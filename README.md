@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0bizotto/)
 
 ![Bizotto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bizotto&show_icons=true&theme=highcontrast&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bizotto&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bizotto&layout=compact&langs_count=100)](https://github.com/anuraghazra/github-readme-stats)
 
 
   ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

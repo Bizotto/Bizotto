@@ -6,8 +6,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bizott0)
 
 <div style= "display: inline_block">
-<img height="170em" alt="Bizotto's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bizotto&show_icons=true&theme=highcontrast&count_private=false">
-<img height="170em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bizotto&layout=compact&langs_count=100&theme=highcontrast">
+<img height="190em" alt="Bizotto's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bizotto&show_icons=true&theme=highcontrast&count_private=false">
+<img height="190em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bizotto&layout=compact&langs_count=100&theme=highcontrast">
 </div>
 
  <div style= "display: inline_block"><br/>

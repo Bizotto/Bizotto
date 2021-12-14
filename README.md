@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0bizotto/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bizott0)
 
-<div style= "display: inline_block"> <br/>
+<div style= "display: inline_block">
 <img align= "center" alt="Bizotto's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bizotto&show_icons=true&theme=highcontrast&count_private=false">
 <img align= "center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bizotto&layout=compact&langs_count=100&theme=highcontrast">
 </div>

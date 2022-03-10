@@ -7,7 +7,7 @@
 
 <div style= "display: inline_block">
 <img height="180em" alt="Bizotto's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bizotto&show_icons=true&theme=highcontrast&count_private=false">
-<img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bizotto&layout=compact&langs_count=99&theme=highcontrast">
+<img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bizotto&layout=compact&langs_count=10&theme=highcontrast">
 </div>
 
  <div style= "display: inline_block"><br/>

@@ -1,4 +1,4 @@
-### Hi, I'm Nicolas Bizotto 🐝.
+### Hi, I'm Nicolas Bizotto 😉.
 ### It's a pleasure to have you here!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-ian-bizotto-410388208/)

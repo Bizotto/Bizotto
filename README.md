@@ -3,7 +3,7 @@
 
 ### About me and social media:
 - Currently working at Khomp;
-- Athlete, Swimmer and Muay Thay;
+- Athlete, Swimmer;
 - Student of systems analysis and development;
 - Enjoying the little things in My life;
 - Learning about React-Native, Node, C++ and JavaScript;

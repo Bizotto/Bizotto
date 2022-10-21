@@ -6,7 +6,7 @@
 - Athlete, Swimmer;
 - Student of systems analysis and development;
 - Enjoying the little things in My life;
-- Learning about React-Native, Node, C++ and JavaScript;
+- Learning about React-Native, Node and JavaScript;
 - Reach me by My e-mail: bizotto.nicolas@gmail.com;
 - Some of My Interests are listening music, playing the guitar and Car engines.
 

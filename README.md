@@ -1,4 +1,4 @@
-### Hi, I'm Nicolas Bizotto 😉.
+# Hi, I'm Nicolas Bizotto 😉.
 ## It's a pleasure to have you here!
 
 ### About me and social media:

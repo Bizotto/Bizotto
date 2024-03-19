@@ -3,10 +3,8 @@
 
 ### About me and social media:
 - Currently working at Khomp;
-- Athlete, Swimmer;
-- Student of systems analysis and development;
-- Enjoying the little things in My life;
-- Learning about React-Native, Node and JavaScript;
+- Enjoying the little things in life;
+- Mobile developer
 - Reach me by My e-mail: bizotto.nicolas@gmail.com;
 - Some of My Interests are listening music, playing the guitar and Car engines.
 

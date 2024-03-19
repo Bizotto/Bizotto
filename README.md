@@ -6,7 +6,6 @@
 - Enjoying the little things in life;
 - Mobile developer
 - Reach me by My e-mail: bizotto.nicolas@gmail.com;
-- Some of My Interests are listening music, playing the guitar and Car engines.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-ian-bizotto-410388208/)
 ##
